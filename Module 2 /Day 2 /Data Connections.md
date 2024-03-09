@@ -4,6 +4,7 @@ The first step in the development lifecycle of Power BI is to connect to differe
 **Direct query**
 ### Import connection:
   * In import mode, data from the source system is imported into Power BI's internal data model. This means that Power BI stores a copy of the data locally, within the PBIX file or in the Power BI Service (if published). The data is loaded into memory, allowing for fast analysis and visualization.
+    
 **Advantages:**
 * Performance: Since the data is stored locally, querying and visualization are typically faster because there's no need to query the source system repeatedly.
 * Offline Access: Once the data is imported, users can analyze and visualize it without needing a connection to the source system.
