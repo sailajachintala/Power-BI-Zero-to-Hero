@@ -48,6 +48,7 @@ Power BI is a business analytics tool developed by Microsoft. It allows users to
 
 ## Power BI History:
 
-<img width="716" alt="timeline" src="https://github.com/sailajachintala/Power-BI-Zero-to-Hero/assets/65940748/4bafaf4a-783f-4a06-afa6-620ea5ebbc53">
+<img width="701" alt="timeline" src="https://github.com/sailajachintala/Power-BI-Zero-to-Hero/assets/65940748/33f101be-be16-4c3d-8c6d-028e2322df16">
+
 
 
