@@ -46,5 +46,8 @@ Power BI is a business analytics tool developed by Microsoft. It allows users to
 ## Power BI Ecosystem:
 <img width="706" alt="Ecosystem" src="https://github.com/sailajachintala/Power-BI-Zero-to-Hero/assets/65940748/4ab21327-261c-485f-bc65-337adea92b6e">
 
+## Power BI History:
+
+<img width="716" alt="timeline" src="https://github.com/sailajachintala/Power-BI-Zero-to-Hero/assets/65940748/4bafaf4a-783f-4a06-afa6-620ea5ebbc53">
 
 
