@@ -10,10 +10,10 @@ Now the top management of SBI bank would like to know their business across diff
 3. OLAP (Online Analytical Processing System)/DWH
 4. BI (Business Intelligence)
 
-OLTP: It holds day to day transactions. Example: any transaction performed at an ATM is updated and reflected immediately
-ETL: It is the process of extracting data from multiple sources and transforming the data into required format and finally loading the information to DWH for business analysis
-OLAP/DWH: It is the permanent location that holds the transformed information which is then used for performing Business analysis and reporting.It stores historical information.
-BI: It is the process of incorporating Intelligence to the information stored in the DWH by performing analysis and reporting.
+* OLTP: It holds day to day transactions. Example: any transaction performed at an ATM is updated and reflected immediately
+* ETL: It is the process of extracting data from multiple sources and transforming the data into required format and finally loading the information to DWH for business analysis
+* OLAP/DWH: It is the permanent location that holds the transformed information which is then used for performing Business analysis and reporting.It stores historical information.
+* BI: It is the process of incorporating Intelligence to the information stored in the DWH by performing analysis and reporting.
 
 **OLTP vs OLAP:**
 
