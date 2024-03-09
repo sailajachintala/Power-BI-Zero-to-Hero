@@ -16,6 +16,7 @@ Now the top management of SBI bank would like to know their business across diff
 4. BI: It is the process of incorporating Intelligence to the information stored in the DWH by performing analysis and reporting.
 
 **OLTP vs OLAP:**
+
 <img width="482" alt="OLTP vs OLAP" src="https://github.com/sailajachintala/Power-BI-Zero-to-Hero/assets/65940748/829e2721-5b07-42bc-94e1-6e347fc4a4f4">
 
 ## What is Power BI?
