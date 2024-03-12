@@ -5,6 +5,7 @@
 
 ### Direct query
 
-<img width="399" alt="Direct" src="https://github.com/sailajachintala/Power-BI-Zero-to-Hero/assets/65940748/462549d2-3ebe-4914-9bac-5fbe6c7ca0d0">
+<img width="399" alt="Direct" src="https://github.com/sailajachintala/Power-BI-Zero-to-Hero/assets/65940748/abf0b663-2329-4b15-bfcd-a5275b9552c9">
+
 
 
