@@ -1,5 +1,8 @@
 ## Data Connections in Power BI
 The first step in the development lifecycle of Power BI is to connect to different data sources. In Power BI, there are mainly 2 ways in which the data source can be connected.
+
+<img width="563" alt="Stages of PBI" src="https://github.com/sailajachintala/Power-BI-Zero-to-Hero/assets/65940748/01d53c47-7cab-4be3-95ac-d56763593514">
+
 **Import mode** and
 **Direct query**
 ### Import connection:
