@@ -1,4 +1,4 @@
-# Power-BI Zero to Hero Youtube playlist https://www.youtube.com/watch?v=3Itjx6Xpag0&list=PL2SQ6tQX0cveTLxRpUUbc6lq1eCQDyHdB
+# [Power-BI Zero to Hero](https://www.youtube.com/watch?v=3Itjx6Xpag0&list=PL2SQ6tQX0cveTLxRpUUbc6lq1eCQDyHdB) Youtube playlist
 # Power-BI-Zero-to-Hero
 Power BI Zero to Hero repo is created for aspiring Data Analysts/Power BI developers to learn complete Power BI. This repo includes presentations, pbix files, interview questions and real time examples. Each day's class will provide real-time knowledge on Power BI, allowing you to apply what you've learned and gain practical skills in working with Power BI in your project.
 
