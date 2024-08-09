@@ -7,7 +7,7 @@ This free course is equipped with all required technical concepts to make a care
 ## Day 1: Introduction to Power BI
 You will learn the basics of datawarehousing architecture, components of datawarehouse including OLTP vs OLAP, Evolution of BI Systems, What is Power BI?,Understanding the Power BI ecosystem,The Power BI Desktop Interface and workflow
 
-## Day 2: Module1: Data Connectors & Preparation (Connecting & Shaping data)
+## Day 2,3 & 4: Module1: Data Connectors & Preparation (Connecting & Shaping data)
 •	Introduction
 •	Data Connections in Power BI
 •	The Query Editor
@@ -22,7 +22,7 @@ You will learn the basics of datawarehousing architecture, components of datawar
 •	Hierarchies
 •	Data Connection best practices
 
-## Day 3 & 4: Module-2: Data Modelling
+## Day 5: Module-2: Data Modelling
 •	What is a data model?
 •	Data tables vs Lookup tables
 •	Data Modelling Basics
