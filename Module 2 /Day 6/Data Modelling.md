@@ -11,3 +11,5 @@ It is a collection of dimensions and facts
 
 
 2. Snowflake Schema: If all the dimension tables are not directly connecting to the fact table then such an arrangement is referred to as a Snowflake Schema.
+   
+<img width="185" alt="Snowflake Schema" src="https://github.com/user-attachments/assets/c203ab23-97b1-423e-8db8-e7343affd68f">
