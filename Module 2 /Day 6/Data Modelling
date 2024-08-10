@@ -1,1 +1,12 @@
+### Dimensional Modelling
+It is the arrangement of Dimensions and fact tables inside a Datawarehouse (DWH) as per the requirements.
 
+### Schema
+It is a collection of dimensions and facts
+
+### Types of Schemas
+1. Star Schema: If all the dimension tables are directly connecting to the fact table then such an arrangement is referred to as a Star Schema.
+
+C:\Users\saila\OneDrive\Documents\Power BI Training\Star Schema.png
+
+2. Snowflake Schema: If all the dimension tables are not directly connecting to the fact table then such an arrangement is referred to as a Snowflake Schema.
