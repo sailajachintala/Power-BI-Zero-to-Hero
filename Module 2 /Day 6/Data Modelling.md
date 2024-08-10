@@ -7,13 +7,7 @@ It is a collection of dimensions and facts
 ### Types of Schemas
 1. Star Schema: If all the dimension tables are directly connecting to the fact table then such an arrangement is referred to as a Star Schema.
 
-<img width="563" alt="Star Schema" src="https://github.com/sailajachintala/Power-BI-Zero-to-Hero/assets/65940748/0449e4ac-2627-464d-aa75-cbef7fb7e716">
-
-
-
-
-
-
+<img width="164" alt="Star Schema" src="https://github.com/user-attachments/assets/0dea11cf-aee7-455e-ba6b-0aa7684d1800">
 
 
 2. Snowflake Schema: If all the dimension tables are not directly connecting to the fact table then such an arrangement is referred to as a Snowflake Schema.
