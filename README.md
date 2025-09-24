@@ -22,7 +22,7 @@ You will learn the basics of datawarehousing architecture, components of datawar
 •	Hierarchies
 •	Data Connection best practices
 
-## Day 5: Module-2: Data Modelling
+## Day 5,6 & 7: Module-2: Data Modelling
 •	What is a data model?
 •	Data tables vs Lookup tables
 •	Data Modelling Basics
@@ -40,7 +40,7 @@ You will learn the basics of datawarehousing architecture, components of datawar
 •	Joining multiple fact tables in Power BI
 •	Data Modelling Best practices
 
-## Day 5,6,7: Module-3: DAX
+## Day 8,9,10: Module-3: DAX
 •	DAX Introduction & Basics
 •	Intro to Calculated columns & Measures
 •	Implicit vs Explicit measures
@@ -58,7 +58,7 @@ You will learn the basics of datawarehousing architecture, components of datawar
 •	Variables in DAX
 •	DAX best practices
 
-## Day 8,9,10: Module-4: Data Visualizations
+## Day 11,12,13: Module-4: Data Visualizations
 •	Visualizations Introduction
 •	Building Basic Viz
 •	Formatting Options
@@ -78,7 +78,7 @@ You will learn the basics of datawarehousing architecture, components of datawar
 •	Publishing to Power BI Service
 •	Data visualization Best practices
 
-## Day 11,12,13: Module-5: Power BI Service
+## Day 14,15: Module-5: Power BI Service
 •	Power BI Service Introduction
 •	Basic Building blocks of service
 •	Logging to Power BI Service
